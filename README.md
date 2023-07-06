@@ -6,6 +6,11 @@ From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapt
 
 ![Figure 6.10](/ar6_wg1_chap6_fig6_10_netERFmap_SWLW_aer.png?raw=true)
 
+Errata 
+------
+
+The figure below reflects updates fixing issues with Figure 6.10b. Updated 6 July 2023.
+![Figure 6.10](/ar6_wg1_chap6_fig6_10b_SWLW_aer.png?raw=true)
 
 Description:
 ------------
@@ -90,3 +95,5 @@ Machine used: Mistral
  
 When was this machine used?  
 Last used July 2021 to produce figures from ESMValTool  
+
+
