@@ -9,8 +9,8 @@ From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapt
 Errata 
 ------
 
-The figure below reflects updates fixing issues with Figure 6.10b. Updated 6 July 2023.
-![Figure 6.10](/ar6_wg1_chap6_fig6_10b_SWLW_aer.png?raw=true)
+The figure below reflects updates fixing issues with Figure 6.10b. Updated 8 July 2023.
+![Figure 6.10](/ar6_wg1_chap6_fig6_10_corrected.png?raw=true)
 
 Description:
 ------------
